@@ -9,10 +9,13 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-theme: jekyll-theme-minimal
+theme: minimal
 title: История гиперинформации
 description: Тексты из блога https://t.me/hyperhistory
+
+markdown: GFM
 
 kramdown:
   syntax_highlighter_opts:
     disable : true
+
