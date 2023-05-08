@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Blogging Like a Hacker
-date: 2023-05-08
+title: "About"
 ---
 
 
