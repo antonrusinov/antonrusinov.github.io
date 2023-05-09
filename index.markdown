@@ -15,4 +15,4 @@ layout: home
 
 # Оглавление
 
-[Межгалактическая сеть людей доброй воли](https://antonrusinov.github.io/articles/1.markdown)
+[Межгалактическая сеть людей доброй воли](https://antonrusinov.github.io/articles/1.html)
